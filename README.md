@@ -16,6 +16,4 @@ For a full breakdown of the business recommendations and visual charts, please r
 * **CTE & Recursive Queries:** Calculating monthly cumulative sales.
 * **Data Segmentation:** Categorizing customers into 'New', 'Returning', and 'Loyal' segments.
 
-##  How to Use
-1.  Run the `amazon brazil analysis.sql` script in your PostgreSQL environment.
-2.  Ensure the schema `amazon_analysis` is created before importing the raw CSV datasets.
+
